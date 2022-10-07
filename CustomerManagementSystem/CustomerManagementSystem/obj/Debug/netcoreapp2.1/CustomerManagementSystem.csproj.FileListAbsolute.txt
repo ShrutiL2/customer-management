@@ -1,0 +1,14 @@
+C:\Users\1000074025\source\repos\CustomerManagementSystem\CustomerManagementSystem\bin\Debug\netcoreapp2.1\CustomerManagementSystem.deps.json
+C:\Users\1000074025\source\repos\CustomerManagementSystem\CustomerManagementSystem\bin\Debug\netcoreapp2.1\CustomerManagementSystem.runtimeconfig.json
+C:\Users\1000074025\source\repos\CustomerManagementSystem\CustomerManagementSystem\bin\Debug\netcoreapp2.1\CustomerManagementSystem.runtimeconfig.dev.json
+C:\Users\1000074025\source\repos\CustomerManagementSystem\CustomerManagementSystem\bin\Debug\netcoreapp2.1\CustomerManagementSystem.dll
+C:\Users\1000074025\source\repos\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\netcoreapp2.1\CustomerManagementSystem.csprojAssemblyReference.cache
+C:\Users\1000074025\source\repos\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\netcoreapp2.1\CustomerManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\1000074025\source\repos\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\netcoreapp2.1\CustomerManagementSystem.RazorAssemblyInfo.cache
+C:\Users\1000074025\source\repos\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\netcoreapp2.1\CustomerManagementSystem.RazorAssemblyInfo.cs
+C:\Users\1000074025\source\repos\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\netcoreapp2.1\CustomerManagementSystem.AssemblyInfoInputs.cache
+C:\Users\1000074025\source\repos\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\netcoreapp2.1\CustomerManagementSystem.AssemblyInfo.cs
+C:\Users\1000074025\source\repos\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\netcoreapp2.1\CustomerManagementSystem.RazorTargetAssemblyInfo.cache
+C:\Users\1000074025\source\repos\CustomerManagementSystem\CustomerManagementSystem\bin\Debug\netcoreapp2.1\CustomerManagementSystem.pdb
+C:\Users\1000074025\source\repos\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\netcoreapp2.1\CustomerManagementSystem.dll
+C:\Users\1000074025\source\repos\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\netcoreapp2.1\CustomerManagementSystem.pdb
